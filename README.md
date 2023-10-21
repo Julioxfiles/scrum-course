@@ -1,5 +1,5 @@
 
-# Welcome to the Scrum cuoure.
+# Welcome to the Scrum course.
 
 We will take some information from the following sources:
 
