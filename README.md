@@ -13,7 +13,7 @@ El desarrollo ágil es una filosofía que cada vez utilizan más empresas, pues 
 
 Dentro de estas metodologías, SCRUM es una de las más interesantes, ya que está enfocada directamente en las tareas a realizar y en la interacción de los equipos de trabajo y el cliente final.
 
-## Qué es SCRUM
+## Qué es SCRUM ?
 
 SCRUM tiene el significado de colaboración, ya que es un término sacado del rugby donde los jugadores se apoyan mutuamente. La metodología agile SCRUM **es un entorno de trabajo donde se aplican una serie de acciones** con el objetivo de abordar proyectos de forma mucho más rápida y eficiente. En SCRUM el trabajo colaborativo es fundamental, por lo que se debe garantizar un alto nivel de comunicación entre los distintos componentes que participan en el proyecto.
 
