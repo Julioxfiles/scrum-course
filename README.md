@@ -77,6 +77,41 @@ Se mejora la satisfacción del cliente, que pasa de un agente externo estático,
 
 * Aumenta la productividad y competitividad de la empresa.
 
+## Division o clasificacion de las historias del cliente.
+ 
+Los requisitos del cliente se pueden dividir por la cantidad de trabajo que conllevan y su complejidad.
+
+### Historias de Usuario
+Son breves requisitos o solicitudes desde el punto de vista del usuario final. Una historia es una narracion sencilla. Las historias de usuario tambien podrian dividirse en sub-tareas.
+
+### Epicas (funcionalidades)
+Son grandes cantidades de trabajo que se pueden descomponer en pequeñas partes llamadas historias de usuario. Asi pues, las epicas son un conjunto de hitorias relacionadas e interdependientes.
+
+### Iniciativas
+Son un conjunto de epicas que conducen hacia un objetivo en comun.
+
+### Temas
+Son grandes areas de enfoque que abarcan a toda la organizacion.
+
+![Alt text](<DIVICION DE REQUISITOS.png>)
+
+Temas e iniciativas otras definiciones.
+
+![Alt text](<images/Iniciativas y Temas.png>)
+
+Los tamaños de las tareas se definen en terminos de complejidad y no de tiempo de desarrollo.
+
+![Alt text](<images/Task Sizes.png>)
+
+Plantillas con preguntas a hacerle al usuario para crear las historia de usuario.
+
+![Alt text](<images/Plantilla Historia de Usuario.png>)
+
+
+Iniciativas, epicas e historias de usuario en el pizarron.
+
+![!\[Alt text\](image-1.png)](<images/iniciativas epicas historias.png>)
+
 ## Herramientas
 
 En el mercado existe una amplia oferta de herramientas o software especialmente diseñado para gestionar proyectos bajo la metodología SCRUM.
@@ -98,3 +133,26 @@ Utilizando complementos se puede implementar nuevas funcionalidades para un mejo
 
 SCRUM es una metodología ideal para aplicar en cualquier tipo de empresa, pues está basada en principios ágiles donde los procesos se dividen en tareas más pequeñas y abordables, lo que facilita y acelera su conclusión. Con SCRUM las empresas incrementarán su productividad y serán mucho más competitivas en el mercado actual marcado por la globalización y digitalización.
 
+Video tutorials sobre Trello: 
+Canal: Daniel te ayuda
+Historias de usuario, Epicas, Iniciativas y Temas (Objetvios)
+https://www.youtube.com/watch?v=1oMt5LuXID8&t=16s
+
+https://www.youtube.com/watch?v=W8_tuL1mixw
+
+Ejemplo de Dashboard:
+
+![Alt text](<images/Ejemplo de Dashboard.png>)
+
+
+Otro ejemplo de Dashboard:
+
+![Alt text](images/Dashboard2.png)
+
+Otro ejemplo de Dashboard:
+
+![Alt text](images/Dashboard3.png)
+
+Otro ejemplo de Dashboard:
+
+![Alt text](images/Dashboard4.png)
